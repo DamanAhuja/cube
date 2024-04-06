@@ -1,6 +1,6 @@
 # Blender 4.0.2
 # www.blender.org
-mtllib https://github.com/DamanAhuja/cube/blob/main/cube.mtl
+mtllib cube.mtl
 o Cube
 v 1.000000 1.000000 -1.000000
 v 1.000000 -1.000000 -1.000000
