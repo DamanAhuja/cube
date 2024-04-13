@@ -1,9 +1,9 @@
 newmtl Material
-Ns 250.000000
-Ka 0.000000 0.000000 1.000000
-Kd 0.000000 0.000000 1.000000
-Ks 0.000000 0.000000 1.000000
-Ke 0.200000 0.200000 0.200000
-Ni 1.450000
-d 1.000000
+Ns 100
+Ka 0.2 0.2 0.2
+Kd 0 0 1   // Diffuse color set to blue (RGB values between 0 and 1)
+Ks 0.5 0.5 0.5
+Ke 0 0 0
+Ni 1.0
+d 1.0
 illum 2
