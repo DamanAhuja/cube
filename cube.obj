@@ -1,4 +1,4 @@
-mtllib ./cube.mtl
+mtllib https://raw.githubusercontent.com/DamanAhuja/cube/main/cube.mtl
 o Cube
 v 1.000000 1.000000 -1.000000
 v 1.000000 -1.000000 -1.000000
