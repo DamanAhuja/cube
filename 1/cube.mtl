@@ -7,4 +7,4 @@ Ke 0 0 0
 Ni 1.0
 d 1.0
 illum 2
-map_kd ./road.jpg
+map_kd https://raw.githubusercontent.com/DamanAhuja/cube/main/1/road.jpg
